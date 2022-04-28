@@ -1,0 +1,9 @@
+{
+	"name": "mohita-adf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e4415085-cef9-4998-a2f8-95ef1df4bcf5",
+		"tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47"
+	}
+}
